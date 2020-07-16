@@ -1,5 +1,7 @@
-
-
+![GitHub followers](https://img.shields.io/github/followers/compsecmonkey?style=social)
+![Keybase PGP](https://img.shields.io/keybase/pgp/compsecmonkey?label=PGP&style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/dcsoccernut?label=Twitter&style=social)
+![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/compsecmonkey?label=Reddit&style=social)
 <!--
 **compsecmonkey/compsecmonkey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
